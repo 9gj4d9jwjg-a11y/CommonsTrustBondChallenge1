@@ -1,6 +1,17 @@
 # CommonsTrustBondChallenge1
 Starter templates for XRPL Business Sprint challenges at XRPL Commons &amp; IE Madrid Study Trip. Build prototypes for trustbond.app: transparent NGO donations on XRP Ledger. Includes boilerplate JS code (xrpl.js) for trustlines, on-chain evidence, escrows, &amp; cross-chain interop. Fork &amp; extend for your team! Resources: Testnet, SDKs, program-aligned.
 
+https://trustbond.com.br
+
+NGO´s PILOT PHASE
+🌍 Learn more about the initiatives:
+https://www.usetrustbond.com/en/ong/enkoji
+
+🌱 Support the "Horta e Árvores" project today:
+https://www.usetrustbond.com/en/ong/enkoji/horta-e-arvores
+
+🤝 Want to go beyond and help our team make this happen? Let's connect! Reach out to Calado: https://www.linkedin.com/in/lrcalado/
+
 # XRPL Challenge 1: Trustlines for Donations
 
 ## Challenge Overview
